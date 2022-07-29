@@ -15,6 +15,7 @@
 - display property 
 
 >### Time Required to Complete This Project
-- 2:30hr 
+- 1:50hr 
 
->### Live Link of this Project
+---
+>### [Live Project Link Click Here ](https://project4-competition.netlify.app)
